@@ -1,4 +1,4 @@
-<!--**mayank-cse/mayank-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**mayank-cse1/mayank-cse1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
  
